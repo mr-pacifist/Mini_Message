@@ -249,6 +249,9 @@ input.error {
 /* modal related responsive styles */
 
 @media only screen and (max-width: 600px) {
+  .signUptext {
+    font-size: 10px;
+  }
   .modal {
     width: 95%;
   }
