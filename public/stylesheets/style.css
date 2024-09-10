@@ -253,6 +253,12 @@ input.error {
     font-size: 12px;
     margine-bottom:10px;
   }
+  #branding img {
+  width: 70px;
+  }
+  #branding h1 {
+  font-size: 16px;
+  }
   .modal {
     width: 95%;
   }
